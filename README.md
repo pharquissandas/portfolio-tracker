@@ -1,10 +1,10 @@
 # Investment Portfolio Tracker
-This is a full-stack web app to track and visualise investments
+This is a full-stack web app to track and visualise investments.
 
 ## Structure 
 
 - /client -> React Frontend
-- /server -> FastAPI or Flask backend
+- /server -> FastAPI Backend
 - /database -> DB scripts
 
 ## Features
